@@ -1,4 +1,4 @@
-[![Prince's GitHub Banner](https://github.com/thisiskushal31/thisiskushal31/blob/main/assets/TopBanner.png?raw=true)](https://github.com/thisiskushal31)    
+[![Prince's GitHub Banner](https://github.com/PRINCE-PRASAD/PRINCE-PRASAD/blob/main/assets/TopBanner.png?raw=true)](https://github.com/PRINCE-PRASAD)    
 
 <p align="center">
     <a href="https://www.linkedin.com/in/prince-prasad/">
@@ -10,7 +10,7 @@
     
 </p> 
 
-<img width="30%" align="right" src="https://github.com/thisiskushal31/thisiskushal31/blob/main/assets/workbench.svg?raw=true">   
+<img width="30%" align="right" src="https://github.com/PRINCE-PRASAD/PRINCE-PRASAD/blob/main/assets/workbench.svg?raw=true">   
 
 <h4>Hey There,</h4>  
 
@@ -33,4 +33,4 @@ Want to know more about me? [Check out my portfolio](https://github.com/PRINCE-P
 
 **Projects** Adding Soon...
 
-[![GitHub followers](https://img.shields.io/github/followers/thisiskushal31.svg?style=social&label=Follow)](https://github.com/PRINCE-PRASAD?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/PRINCE-PRASAD.svg?style=social&label=Follow)](https://github.com/PRINCE-PRASAD?tab=followers)
