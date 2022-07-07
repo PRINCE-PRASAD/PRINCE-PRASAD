@@ -11,7 +11,7 @@
     <a href="https://twitter.com/PRINCE__PRASAD">
         <img src="https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
     </a>
-     <a href="pkprasad998@gmail.com">
+     <a href="mailto:pkprasad998@gmail.com">
       <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
     
