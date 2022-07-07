@@ -1,5 +1,4 @@
-[![Prince's GitHub Banner](https://github.com/PRINCE-PRASAD/PRINCE-PRASAD/blob/main/assets/TopBanner.png?raw=true)](https://github.com/PRINCE-PRASAD)    
-
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat&size=56&center=true&vCenter=true&multiline=true&width=1200&height=300&lines=Hello+Folks!!;My+name++is++Prince;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 <p align="center">
     <a href="https://www.linkedin.com/in/prince-prasad/">
         <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
