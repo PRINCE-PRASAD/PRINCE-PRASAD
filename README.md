@@ -23,7 +23,7 @@
 
 I'm Prince, a *Web Developer* pursuing my Information Technology Degree who is passionate about building user-friendly, easy-to-use applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. As of now, I am focused on Web Development and DevOps, but I still wish to explore many fields.    
 
-Want to know more about me? [Check out my portfolio](https://prince-prasad.netlify.app/)
+Want to know more about me? [Check out my portfolio](https://--------/)
 
 <h2>Technical Skills 🛠</h2>
 
