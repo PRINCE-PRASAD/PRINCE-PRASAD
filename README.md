@@ -5,7 +5,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat&size=56&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=Hello+Folks!!;My+name++is++Prince;Welcome+to+my+Github+Profile)](https://git.io/typing-svg) -->
 
 <div align="center">
-  <img src ="./banner.png" />
+  <img src ="./assets/TopBanner.png" />
 
 <p align="center">
     <a href="https://www.linkedin.com/in/prince-prasad/">
@@ -96,9 +96,9 @@ Want to know more about me? [Check out my portfolio](https://--------/) -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PRINCE-PRASAD&" alt="prince" />
 </div>
 
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/PRINCE-PRASAD"><img src="https://github-readme-stats.vercel.app/api?username=PRINCE-PRASAD&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PRINCE-PRASAD's GitHub stats" /></a>
 
-<a href="http://www.github.com/PRINCE-PRASAD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PRINCE-PRASAD&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/PRINCE-PRASAD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PRINCE-PRASAD&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
 
