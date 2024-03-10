@@ -2,8 +2,10 @@
 
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Prince Prasad</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat&size=56&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=Hello+Folks!!;My+name++is++Prince;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat&size=56&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=Hello+Folks!!;My+name++is++Prince;Welcome+to+my+Github+Profile)](https://git.io/typing-svg) -->
 
+<div align="center">
+  <img src ="./banner.png" />
 
 <p align="center">
     <a href="https://www.linkedin.com/in/prince-prasad/">
@@ -18,8 +20,7 @@
     
 </p> 
 
-<div align="center">
-  <img src ="./banner.png" />
+
   
 </div>
 
@@ -37,7 +38,7 @@
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
-- 🤔 I’m looking for help with `Data Structures and Algorithms`
+- 🤔 I’m looking for help with `Data Structures`
 
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 
@@ -48,13 +49,13 @@
 
 
 
-<img width="30%" align="right" src="https://github.com/PRINCE-PRASAD/PRINCE-PRASAD/blob/main/assets/workbench.svg?raw=true">   
-
+<!-- <img width="30%" align="right" src="https://github.com/PRINCE-PRASAD/PRINCE-PRASAD/blob/main/assets/workbench.svg?raw=true">    -->
+<!-- 
 <h4>Hey There,</h4>  
 
 I'm Prince, a *Web Developer* pursuing my Information Technology Degree who is passionate about building user-friendly, easy-to-use applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. As of now, I am focused on Web Development and DevOps, but I still wish to explore many fields.    
 
-Want to know more about me? [Check out my portfolio](https://--------/)
+Want to know more about me? [Check out my portfolio](https://--------/) -->
 
 <h2>Technical Skills 🛠</h2>
 
