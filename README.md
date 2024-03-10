@@ -1,7 +1,8 @@
-![App Screenshot](https://github.com/PRINCE-PRASAD/PRINCE-PRASAD/blob/main/assets/prince.gif?raw=true)
+<!-- ![App Screenshot](https://github.com/PRINCE-PRASAD/PRINCE-PRASAD/blob/main/assets/prince.gif?raw=true) -->
 
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Prince Prasad</h1>
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat&size=56&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=Hello+Folks!!;My+name++is++Prince;Welcome+to+my+Github+Profile)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat&size=56&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=Hello+Folks!!;My+name++is++Prince;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
 
 <p align="center">
@@ -16,6 +17,36 @@
     </a>
     
 </p> 
+
+<div align="center">
+  <img src ="./banner.png" />
+  
+</div>
+
+ <br/>
+
+## 👨🏻‍💻 About Me:
+
+<img  src="./assets/one.gif" height="290px" align="right" />
+
+- 🙋‍♂️ All about me is at **[My Website](https://.vercel.app/)**
+
+- 🔭 I’m currently working on `Something Intresting`.
+
+- 🌱 I’m currently learning `DevOps Methodologies`
+
+- 👯 I’m looking to collaborate for `Dev Projects`
+
+- 🤔 I’m looking for help with `Data Structures and Algorithms`
+
+- 💬 Ask me about anything, Except Maths :sweat_smile:
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
+- ⚡ Fun fact: I waste most of my time playing games
+
+
+
 
 <img width="30%" align="right" src="https://github.com/PRINCE-PRASAD/PRINCE-PRASAD/blob/main/assets/workbench.svg?raw=true">   
 
