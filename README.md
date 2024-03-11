@@ -6,22 +6,11 @@
 
 <div align="center">
   <img src ="./assets/banner.png" />
+  <img src ="./assets/banner3.png" />
+  <img src ="./assets/banner4.png" />
+  <img src ="./assets/banner1.pdf" />
+  <img src ="./assets/banner2.pdf" />
 
-<!-- <p align="center">
-    <a href="https://www.linkedin.com/in/prince-prasad/">
-        <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-    </a>
-    <a href="https://twitter.com/PRINCE__PRASAD">
-        <img src="https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-    </a>
-     <a href="mailto:pkprasad998@gmail.com">
-      <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
-    </a>
-    
-</p>  -->
-
-
-  
 </div>
 
  <br/>
