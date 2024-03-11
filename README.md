@@ -87,7 +87,7 @@ Want to know more about me? [Check out my portfolio](https://--------/) -->
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PRINCE-PRASAD&show_icons=true&theme=chartreuse-dark" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=prince-prasad&theme=chartreuse-dark&border_radius=4)](https://git.io/streak-stats />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=prince-prasad&theme=chartreuse-dark&border_radius=4" alt="GitHub Streak"/>
   
 </div>
 
