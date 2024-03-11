@@ -30,7 +30,7 @@
 
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- 👨‍💻 Life Hack: Learn new tech :fire: and share your knowledge :tada:
 
 - ⚡ Fun fact: I waste most of my time playing games
 
