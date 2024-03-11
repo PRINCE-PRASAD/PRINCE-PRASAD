@@ -79,7 +79,6 @@ Want to know more about me? [Check out my portfolio](https://--------/) -->
 <p align="left">
 <a href="https://twitter.com/PRINCE__PRASAD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhan09543075" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prince-prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prince-prasad" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17606358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17606358" height="30" width="40" /></a>
 
 </p>
 
