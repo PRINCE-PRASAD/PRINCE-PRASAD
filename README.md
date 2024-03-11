@@ -7,7 +7,7 @@
 <div align="center">
   <img src ="./assets/banner.png" />
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://www.linkedin.com/in/prince-prasad/">
         <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
     </a>
@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
     
-</p> 
+</p>  -->
 
 
   
