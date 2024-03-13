@@ -16,7 +16,7 @@
 
 <img  src="./assets/one.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://.vercel.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://princeprasad.netlify.app)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
