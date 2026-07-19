@@ -16,9 +16,6 @@ Building scalable cloud platforms • Automating everything • Securing product
 
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=PRINCE-PRASAD&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 # 👨‍💻 About Me
 
@@ -100,5 +97,8 @@ I specialize in designing cloud-native platforms, automating infrastructure, bui
 <div align="center">
 
 ⭐ *Thanks for visiting my profile! Feel free to connect, collaborate, or explore my repositories.*
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=PRINCE-PRASAD&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 </div>
