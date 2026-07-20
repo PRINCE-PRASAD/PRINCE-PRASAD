@@ -23,7 +23,7 @@ I'm a **DevOps Engineer** passionate about building secure, scalable, and highly
 
 I specialize in designing cloud-native platforms, automating infrastructure, building CI/CD pipelines, implementing DevSecOps practices, and improving production reliability through observability.
 
-### 🚀 What I Do
+### What I Do
 
 - ☁️ Build production infrastructure on **AWS** & **Google Cloud**
 - ⚙️ Automate deployments using **GitHub Actions**, **Jenkins**, and **Terraform**
